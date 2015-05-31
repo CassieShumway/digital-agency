@@ -128,7 +128,7 @@ nav a {
 .mobile a:hover:after {
   content: "";
   display: block;
-  height: 1px;
+  height: 2px;
   width: 100%;
   background-color: #ff0000;
   vertical-align: middle;
